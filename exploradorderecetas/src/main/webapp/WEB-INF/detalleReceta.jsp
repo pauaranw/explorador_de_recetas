@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Detalle receta</title>
+<link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
     <h1>Detalle receta</h1>
